@@ -1,0 +1,85 @@
+[
+  {
+    "titre": "Fraisier (moule de ~30cm de diamètre / 8cm de hauteur)",
+    "slug": "fraisier",
+    "image": "",
+    "texte_informatif": "Préciser que la crème patissière peut se faire la veille",
+    "materiel": ["rhodoid", "poches à douille", "douille ronde"],
+    "ingredients": {
+      "Pour la génoise": [
+        "6 oeufs",
+        "180g de sucre",
+        "180g de farine tamisée",
+        "sucre vanillé ou bâton de vanille"
+      ],
+      "Pour le sirop d'imbibage": [
+        "100g d'eau",
+        "50g de sucre",
+        "100g de fraise",
+        "Facultatif: citron vert"
+      ],
+      "Pour la crème diplomate": [
+        "750mL de lait entier",
+        "6 jaunes d'oeufs",
+        "150g de sucre",
+        "60g de farine ou de maïzena",
+        "75g de beurre",
+        "vanille",
+        "6 à 8 feuilles de gélatines (en fonction du bloom)",
+        "375g de crème entière 35% M.G."
+      ],
+      "Pour la compotée de fraise": [
+        "300g de fraise",
+        "50g de sucre",
+        "4g de gélatine",
+        "citron vert"
+      ],
+      "Pour le gel fraise/basilic": [
+        "150g de purée de fraise",
+        "basilic (selon le goût)",
+        "25g de sucre",
+        "2g de gélatine"
+      ],
+      "Pour les finitions et décos": [
+        "fraises",
+        "250g de crème entière 30% M.G.",
+        "25g de sucre glace"
+      ]
+    },
+    "preparation": {
+      "La génoise": [
+        "Préparer les poudres, séparer les jaunes des blancs et tamiser la farine. Préchauffer le four entre 160°C et 180°C.",
+        "Blanchir les jaunes avec le sucre et la vanille à puissance moyenne. Le mélange doit doubler de volume. Ajouter la farine en deux fois et bien mélanger.",
+        "Monter les blancs avec une pointe de sel.",
+        "Ajout des blancs montés dans la préparation du point 2. Attention à être délicat pour ne pas casser les blancs (remuer de haut en bas en incorporant bien). Couler l'appareil dans un moule. N'attendez pas trop longtemps pour enfourner l'appareil, il peut retomber!",
+        "Pour la cuisson, tout va dépendre de votre four, je vous conseille donc de bien surveiller votre cuisson si c'est votre première génoise. Le temps de cuisson va également dépendre de votre quantité de génoise. Pour ma part, j'enfourne à la position 'haut/bas' niveau 2 pour une durée moyenne de 20 minutes. N'hésitez pas à consulter le guide de votre four :). Vous pouvez tout de même planter un cure dent à coeur et voir s'il ressort propre ou non. Un autre conseil pro est d'exercer une légère pression de la main au centre du gateau, s'il reprend sa forme, il est creuse, si pas, il reste au four.",
+        "Sortir du four et laisser refroidir sur grille. Tendez l'oreille, si la génoise chante, c'est réussi :D.", "Lors du montage, vous devrez couper votre génoise en deux pour obtenir deux disques. Il sera peut-être nécessaire de les recouper légèrement (environ 0,5 à 1 cm) afin qu’ils s’insèrent correctement dans le moule, sans empiéter sur la couronne de fraises placée tout autour."
+      ],
+      "Le sirop d'imbibage": [
+        "Faire chauffer l'eau, le sucre et les fraises. Cuire durant 10 minutes.",
+        "Mixer le mélange et passer le au chinois pour enlever les morceaux résiduels. Laisser refroidir."
+      ],
+      "La crème diplomate": [
+        "Commencer par réhydrater les feuilles de gélatine dans un bol d'eau froide.",
+        "Faites infuser la vanille dans le lait chaud. Pendant ce temps, blachir les jaunes dans le sucre et ajouter progressivement la farine tamisée.",
+        "Quand le lait est chaud, verser la moitié dans les jaunes blanchis, bien mélanger et reverser le tout dans le lait. Cuire jusqu'à épaississement (attention à bien mélanger constamment pour éviter que la crème patissière brule).",
+        "Quand la consistance est correcte, hors du feu, ajouter la gélatine essorée ainsi que le beurre. Verser dans un plat large (permet de refroidir plus vite), et laisser refroidir complètement durant 4h ou une nuit.",
+        "Quand la patissière est bien froide, sorter là du frigo et passer là au batteur pour la texturer. En parallèle, monter la crème entière en chantilly (veuiller à bien serrer la crème).",
+        "Incorporer délicatement la chantilly à la patissière froide. Votre crème diplomate est prête :)."
+      ],
+      "La compotée de fraise": [
+        "Chauffer les fraises pour extraire le jus. Ajouter le sucre et la gélatine et laisser cuire durant 2 à 3 minutes.",
+        "Ajouter des zestes ainsi que le jus du citron. Laisser refroidir.",
+        "Ajouter des morceaux de fraises fraiches à la compotée quand elle est tiède, cela ajoutera un contraste à votre compotée."
+      ],
+      "Le gel de fraise": [
+        "Chauffer la purée de fraises, le sucre et les feuilles de basilic. Laisser bien infuser.",
+        "Une fois que le gout est satisfaisant, enlever les feuilles et passer au chinois le mélange.",
+        "Remettre le mélange filtré sur le feu, ajouter la gélatine et faire bouillir durant 1 minute.",
+        "Laisser refroidir. Avant l'utilisation, mixer le mélange pour avoir la texture de gel prête à être pocher."
+      ],
+      "La chantilly de finition": "Monter la crème avec le sucre glace en chantilly ferme.",
+      "Le montage": ["Placer le rhodoid dans votre cercle et disposer des fraises fraiches en couronne.", "Mettre le premier disque de génoise et imbibé"]
+    }
+  }
+]

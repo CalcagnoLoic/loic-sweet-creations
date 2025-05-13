@@ -1,0 +1,66 @@
+[
+  {
+    "titre": "Pralines chocolat blanc à la pistache (~20 pralines)",
+    "slug": "praline-pistache",
+    "image": "",
+    "texte_informatif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "materiel": ["Maryse", "Thermomètre", "Moule Silikomart SF006 (ou autre)"],
+    "ingredients": {
+      "Garniture": [
+        "150g de chocolat blanc",
+        "100g de crème entière (35% M.G.)",
+        "30g de pâte de pistache (ou pistaches broyées)",
+        "15g de beurre (facultatif)",
+        "Quelques gouttes d'extraits d'amandes amères"
+      ],
+      "Coque de chocolat": "200g de chocolat blanc (Callebaut W2)"
+    },
+    "preparation": {
+      "Ganache crémeuse à la pistache": [
+        "Faire infuser les pistaches dans la crème chaude à feu doux pendant 15 minutes.",
+        "Verser la crème chaude sur le chocolat blanc en morceaux (on peut filtrer ou laisser les pistaches selon la texture désirée).",
+        "Mélanger délicatement jusqu'à ce que le chocolat soit totalement fondu et que la ganache soit lisse et brillante.",
+        "Ajouter quelques gouttes d'extrait d'amande amère, filmer au contact et laisser refroidir complètement."
+      ],
+      "Confection des pralines": [
+        "Tempérer le chocolat en suivant la courbe de cristallisation adaptée (dispo sur l'emballage du chocolat).",
+        "Former les coques en remplissant les empreintes du moules de chocolat tempéré jusqu'au bord. Retourner immédiatement le moule sur une grille pour enlever l'excédent de chocolat. Tapoter légèrement pour éliminer les bulles d'air. Laisser cristalliser 15 minutes à températures ambiante (ou au frigo à maximum 10°C pour éviter un choc thermique trop brusque).",
+        "Verser la ganache dans chaque empreinte sans atteindre le bord. Laisser figer quelques minutes avant de fermer.",
+        "Si besoin, réchauffer légèrement le chocolat tempéré. Couler le chocolat pour fermer les pralines et lisser l'excédent avec une spatule. Laisser cristalliser 30 à 45 minutes au frigo (pas trop froid).",
+        "Démouler délicatement et déguster! "
+      ]
+    },
+    "tags": []
+  },
+  {
+    "titre": "Pralines chocolat lait au caramel (~20 pralines)",
+    "slug": "praline-caramel",
+    "image": "",
+    "texte_informatif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "materiel": ["Maryse", "Thermomètre", "Moule Silikomart SF006 (ou autre)"],
+    "ingredients": {
+      "Garniture": [
+        "150g de sucre",
+        "75g de beurre salé",
+        "75g de crème 35% M.G."
+      ],
+      "Coque de chocolat": "200g de chocolat au lait (Callebaut 823)"
+    },
+    "preparation": {
+      "Caramel au beurre salé": [
+        "Commencer par un caramel à sec: ajouter la moitié du sucre dans une casserole à feu moyen. Une fois fondu et légèrement coloré, ajouter la seconde moitié et laisser fondre complètement.",
+        "Pendant ce temps, chauffer la crème sans la faire bouillir.",
+        "Hors du feu, incoporer progressivement la crème chaude au caramel en mélangeant constamment (attention aux projections).",
+        "Ajouter le beurre en morceau et mélanger jusqu'à obtention d'un caramel lisse et homogène."
+      ],
+      "Confection des pralines": [
+        "Tempérer le chocolat en suivant la courbe de cristallisation adaptée (dispo sur l'emballage du chocolat.",
+        "Former les coques en remplissant les empreintes du moules de chocolat tempéré jusqu'au bord. Retourner immédiatement le moule sur une grille pour enlever l'excédent de chocolat. Tapoter légèrement pour éliminer les bulles d'air. Laisser cristalliser 15 minutes à températures ambiante (ou au frigo à maximum 10°C pour éviter un choc thermique trop brusque).",
+        "Verser la ganache dans chaque empreinte sans atteindre le bord. Laisser figer quelques minutes avant de fermer.",
+        "Si besoin, réchauffer légèrement le chocolat tempéré. Couler le chocolat pour fermer les pralines et lisser l'excédent avec une spatule. Laisser cristalliser 30 à 45 minutes au frigo (pas trop froid).",
+        "Démouler délicatement et déguster! "
+      ]
+    },
+    "tags": []
+  }
+]
