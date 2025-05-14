@@ -6,14 +6,14 @@
     "texte_informatif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     "materiel": ["Maryse", "Thermomètre", "Moule Silikomart SF006 (ou autre)"],
     "ingredients": {
-      "Garniture": [
+      "Pour la garniture": [
         "150g de chocolat blanc",
         "100g de crème entière (35% M.G.)",
         "30g de pâte de pistache (ou pistaches broyées)",
         "15g de beurre (facultatif)",
         "Quelques gouttes d'extraits d'amandes amères"
       ],
-      "Coque de chocolat": "200g de chocolat blanc (Callebaut W2)"
+      "Pour les coques de chocolat": "200g de chocolat blanc (Callebaut W2)"
     },
     "preparation": {
       "Ganache crémeuse à la pistache": [
@@ -39,12 +39,12 @@
     "texte_informatif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     "materiel": ["Maryse", "Thermomètre", "Moule Silikomart SF006 (ou autre)"],
     "ingredients": {
-      "Garniture": [
+      "Pour la garniture": [
         "150g de sucre",
         "75g de beurre salé",
         "75g de crème 35% M.G."
       ],
-      "Coque de chocolat": "200g de chocolat au lait (Callebaut 823)"
+      "Pour les coques de chocolat": "200g de chocolat au lait (Callebaut 823)"
     },
     "preparation": {
       "Caramel au beurre salé": [

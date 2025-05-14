@@ -1,0 +1,63 @@
+[
+  {
+    "titre": "Tarte aux pommes",
+    "slug": "tarte-pommes",
+    "image": "",
+    "texte_informatif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "materiel": [],
+    "ingredients": {
+      "Pour la pâte et le montage": [
+        "Pate brisée (ajouter lien vers la recette)",
+        "4 à 5 pommes (Golden, Pink Lady ou Reine des Reinettes)",
+        "Sucre ou vergeoise",
+        "Beurre fondu"
+      ],
+      "Pour la crème patissière": [
+        "500mL de lait",
+        "vanille",
+        "4 jaunes d'oeufs",
+        "100g de sucre",
+        "40g de maïzena",
+        "30g de beurre",
+        "4 à 6 feuilles de gélatine"
+      ],
+      "Pour le nappage au jus de pomme": [
+        "100mL de jus de pomme clair",
+        "2 feuilles de gélatine",
+        "1 cuillère à soupe de sucre (optionnel)",
+        "1 cuillère à café de jus de citron"
+      ]
+    },
+    "preparation": {
+      "La crème patissière": [
+        "Réhydrater la gélatine dans un bol d'eau froide.",
+        "Chauffer le lait avec la vanille. En parralèle, blanchir les jaunes avec le sucre. Ajouter la maïzena une fois que le mélange blanchi ait doublé de volume.",
+        "Verser du lait chaud dans le mélanger, bien mélanger et le reverser dans le lait chaud.",
+        "Remettre sur feu et cuire jusqu'à épaississement (bien mélanger pour ne pas que ça brûle).",
+        "Hors du feu, ajouter le beurre et la gélatine et bien mélanger. Filmer au contact et laisser refroidir complètement au frigo."
+      ],
+      "La cuisson à blanc de la pâte": [
+        "Préchauffer le four à 180°C.",
+        "Foncer le moule avec la pâte et piquer le fond. Ajouter des billes en céramique ou du poids pour éviter que votre tarte ne gonfle. Vous pouvez également ajouter un papier de cuisson sur le dessus pour éviter qu'elle ne colore trop avec la cuisson à blanc.",
+        "Cuire 15 minutes, retirer les billes et remettre 5 minutes pour dorer légèrement le fond de tarte.",
+        "Sortir et laisser refroidir sur une grille."
+      ],
+      "La cuisson des pommes": [
+        "Eplucher les pommes et les couper en fine lamelle.",
+        "Sur une plaque, recouverte de papier cuisson, former des rosaces ou arrangements au choix de vos pommes.",
+        "Badigeonner de beurre fondu et saupoudrer légèrement de sucre ou vergeoise.",
+        "Cuire à 180°C pendant 20 à 25 minutes jusqu'à ce qu'elles soient tendre et dorées."
+      ],
+      "Le nappage au jus de pomme": [
+        "Réhydrater la gélatine dans un bol d'eau froide.",
+        "Chauffer le jus de pomme avec le sucre et le citron jusqu'à frémissement. Hors du feu, ajouter la gélatine essorée, bien mélanger.",
+        "Laisser tiédir le mélange."
+      ],
+      "Montage de la tarte": [
+        "Etaler la crème patissière froide sur le fond de tarte refroidi (ne pas hésiter à mélanger la patissière pour qu'elle retrouve la bonne consistance.",
+        "Déposer délicatement les pommes une fois refroidie.",
+        "Napper avec la nappage refroidi."
+      ]
+    }
+  }
+]

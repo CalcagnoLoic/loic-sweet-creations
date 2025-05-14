@@ -1,0 +1,78 @@
+[
+  {
+    "titre": "Madeleine (quantité ~27)",
+    "slug": "madeleine",
+    "image": "",
+    "texte_informatif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "materiel": ["Moule Silikomart sf032"],
+    "ingredients": [
+      "3 oeufs entiers",
+      "110g de farine",
+      "8g de levure",
+      "110g de sucre",
+      "160g de beurre doux ou salé",
+      "Garniture au choix"
+    ],
+    "preparation": {
+      "Confection des madeleines": [
+        "Préparer et peser toutes les quantités. Préchauffer le fourà 180°C.",
+        "Faire fondre le beurre.",
+        "Blanchir le mélange sucre/oeufs à vitesse faibles à moyenne.",
+        "Ajouter en plus le mélange farine/levure au mélange précédent. Bien mélanger jusqu'à l'obtention d'une pâte.",
+        "Incorporer le beurre fondu jusqu'à obtention d'un mélange homogène et brillant. N'hésitez pas ajouter une garniture au choix pour plus de gourmandises :p. La pâte risque de paraitre liquide mais va se raffermir.",
+        "Remplir les empreintes du moule au 2/3 environ. Pour une pousse généreuse de la madeleine, vous pouvez la passer au froid avec de la cuire.",
+        "Enfourner à 180°C pour une durée de 12 à 15 minutes."
+      ]
+    },
+    "tags": []
+  },
+  {
+    "titre": "La génoise",
+    "slug": "genoise",
+    "image": "",
+    "texte_informatif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "ingredients": [
+      "6 oeufs",
+      "180g de sucre",
+      "180g de farine tamisée",
+      "sucre vanillé ou bâton de vanille"
+    ],
+    "materiel": [],
+    "preparation": {
+      "La génoise": [
+        "Préparer les poudres, séparer les jaunes des blancs et tamiser la farine. Préchauffer le four entre 160°C et 180°C.",
+        "Blanchir les jaunes avec le sucre et la vanille à puissance moyenne. Le mélange doit doubler de volume. Ajouter la farine en deux fois et bien mélanger.",
+        "Monter les blancs avec une pointe de sel.",
+        "Ajout des blancs montés dans la préparation du point 2. Attention à être délicat pour ne pas casser les blancs (remuer de haut en bas en incorporant bien). Couler l'appareil dans un moule. N'attendez pas trop longtemps pour enfourner l'appareil, il peut retomber!",
+        "Pour la cuisson, tout va dépendre de votre four, je vous conseille donc de bien surveiller votre cuisson si c'est votre première génoise. Le temps de cuisson va également dépendre de votre quantité de génoise. Pour ma part, j'enfourne à la position 'haut/bas' niveau 2 pour une durée moyenne de 20 minutes. N'hésitez pas à consulter le guide de votre four :). Vous pouvez tout de même planter un cure dent à coeur et voir s'il ressort propre ou non. Un autre conseil pro est d'exercer une légère pression de la main au centre du gateau, s'il reprend sa forme, il est creuse, si pas, il reste au four.",
+        "Sortir du four et laisser refroidir sur grille. Tendez l'oreille, si la génoise chante, c'est réussi :D.",
+        "Lors du montage, vous devrez couper votre génoise en deux pour obtenir deux disques. Il sera peut-être nécessaire de les recouper légèrement (environ 0,5 à 1 cm) afin qu’ils s’insèrent correctement dans le moule, sans empiéter sur la couronne de fraises placée tout autour."
+      ]
+    },
+    "tags": []
+  },
+  {
+    "titre": "Caramel beurre salé",
+    "slug": "caramel-beurre-sale",
+    "image": "",
+    "texte_informatif": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "materiel": [],
+    "ingredients": [
+      "160g de sucre",
+      "80g de beurre salé",
+      "80g de crème 35% M.G."
+    ],
+    "preparation": {
+      "Conception du caramel au beurre salé": [
+        "Mettre à chauffer la crème. Le but est qu'elle soit chaude pour éviter un choc thermique trop brusque entre le caramel très chaud et la crème froide.",
+        "Mettre la moitié du sucre dans une casserole et faire chauffer à feu moyen. Le sucre commence à devenir liquide et prendre une coloration ambrée. Ajout de la seconde moitié de sucre.",
+        "Laisser cuire (sans faire bruler) jusqu'à obtention d'un liquide ambré.",
+        "Retirer la casserole du feu et ajouter délicatement la crème (attention aux projections). Si la crème était assez chaude, elle va s'incorporer facilement au caramel. Dans le cas contraire, le caramel va se solidifier. Pas de panique, fais le juste rechauffer à feu moyen.",
+        "Hors du feu, ajout du beurre en petit bloc et mélanger.",
+        "Dans le cas où des résidus persistent dans le caramel, vous pouvez le filtrer.",
+        "Verser votre préparation dans un bocal hermétique et conserver le au frais. A consommer dans les 3 semaines."
+      ]
+    },
+    "tags": []
+  }
+]

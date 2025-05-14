@@ -53,7 +53,8 @@
         "Monter les blancs avec une pointe de sel.",
         "Ajout des blancs montés dans la préparation du point 2. Attention à être délicat pour ne pas casser les blancs (remuer de haut en bas en incorporant bien). Couler l'appareil dans un moule. N'attendez pas trop longtemps pour enfourner l'appareil, il peut retomber!",
         "Pour la cuisson, tout va dépendre de votre four, je vous conseille donc de bien surveiller votre cuisson si c'est votre première génoise. Le temps de cuisson va également dépendre de votre quantité de génoise. Pour ma part, j'enfourne à la position 'haut/bas' niveau 2 pour une durée moyenne de 20 minutes. N'hésitez pas à consulter le guide de votre four :). Vous pouvez tout de même planter un cure dent à coeur et voir s'il ressort propre ou non. Un autre conseil pro est d'exercer une légère pression de la main au centre du gateau, s'il reprend sa forme, il est creuse, si pas, il reste au four.",
-        "Sortir du four et laisser refroidir sur grille. Tendez l'oreille, si la génoise chante, c'est réussi :D.", "Lors du montage, vous devrez couper votre génoise en deux pour obtenir deux disques. Il sera peut-être nécessaire de les recouper légèrement (environ 0,5 à 1 cm) afin qu’ils s’insèrent correctement dans le moule, sans empiéter sur la couronne de fraises placée tout autour."
+        "Sortir du four et laisser refroidir sur grille. Tendez l'oreille, si la génoise chante, c'est réussi :D.",
+        "Lors du montage, vous devrez couper votre génoise en deux pour obtenir deux disques. Il sera peut-être nécessaire de les recouper légèrement (environ 0,5 à 1 cm) afin qu’ils s’insèrent correctement dans le moule, sans empiéter sur la couronne de fraises placée tout autour."
       ],
       "Le sirop d'imbibage": [
         "Faire chauffer l'eau, le sucre et les fraises. Cuire durant 10 minutes.",
@@ -79,7 +80,15 @@
         "Laisser refroidir. Avant l'utilisation, mixer le mélange pour avoir la texture de gel prête à être pocher."
       ],
       "La chantilly de finition": "Monter la crème avec le sucre glace en chantilly ferme.",
-      "Le montage": ["Placer le rhodoid dans votre cercle et disposer des fraises fraiches en couronne.", "Mettre le premier disque de génoise et imbibé"]
-    }
+      "Le montage": [
+        "Placer le rhodoid dans votre cercle et disposer des fraises fraiches en couronne.",
+        "Mettre le premier disque de génoise et imbibé de sirop.",
+        "Pocher la crème diplomate et lisser les bords.",
+        "Ajouter la compotée, recouvrir de crème et lisser.",
+        "Poser le second disque, l'imbiber et recouvrir de crème.",
+        "Placer au minimum 4h au frais. Décercler, pocher la chantilly de finition, ajout du gel et de la garniture fraiche."
+      ]
+    },
+    "tags": []
   }
 ]
